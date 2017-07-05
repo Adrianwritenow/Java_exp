@@ -21,9 +21,9 @@ console.log(typeof newVar2);
 
 var x = 9; //number
 console.log(x);
-console.log(typeof x);
+console.log("x is a",typeof x, "data type");
 
 ////mutate////
 var x = (3<6);
 console.log(x);
-console.log(typeof x);
+console.log("x is now a",typeof x,"data type");
