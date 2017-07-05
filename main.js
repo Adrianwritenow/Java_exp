@@ -27,3 +27,16 @@ console.log("x is a",typeof x, "data type");
 var x = (3<6);
 console.log(x);
 console.log("x is now a",typeof x,"data type");
+
+//concatenate
+
+var cat ="meow";
+var dog = "woof";
+var catdog = (cat+dog);
+console.log(catdog);
+
+//arthmetic_operations
+var red =6;
+var blue=4;
+var purple=(red+blue);
+console.log(purple);
